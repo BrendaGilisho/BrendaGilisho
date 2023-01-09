@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Data analyst and poet</h3>
 <img align="right" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brendagilisho&" alt="brendagilisho" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendagilisho&label=Profile%20views&color=0e75b6&style=flat" alt="brendagilisho" /> </p>
 
 - 🌱 I’m currently learning **machine learning**
@@ -21,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brendagilisho&show_icons=true&locale=en&layout=compact" alt="brendagilisho" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brendagilisho&" alt="brendagilisho" /></p>
+
