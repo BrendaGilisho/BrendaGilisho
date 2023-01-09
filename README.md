@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendagilisho&label=Profile%20views&color=0e75b6&style=flat" alt="brendagilisho" /> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **data mining**
 
 - 💬 Ask me about **SQL**
 
