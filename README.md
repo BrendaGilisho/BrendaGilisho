@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **data mining**
 
-- 💬 Ask me about **SQL**
+- 💬 Ask me about **SQL and Python**
 
 - 📫 How to reach me **brendagilisho22@gmail.com**
 
